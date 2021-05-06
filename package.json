@@ -1,7 +1,8 @@
 {
 	"name": "remove-xml-comments",
-	"description": "Remove XML Comments",
-	"version": "0.0.1",
+	"displayName": "Remove XML Comments",
+	"description": "Remove single- and multi- line comments in XML",
+	"version": "0.0.2",
 	"publisher": "AlexAppsNetCo",
 	"license": "MIT",
 	"engines": {
